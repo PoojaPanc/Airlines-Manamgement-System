@@ -12,7 +12,7 @@
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
  <script>
  $(document).ready(function(){
-	    $("#txtFromDate").datepicker({
+	  /*   $("#txtFromDate").datepicker({
 	        numberOfMonths: 2,
 	        minDate: 0,
 	        onSelect: function(selected) {
@@ -25,7 +25,7 @@
 	           $("#txtFromDate").datepicker("option","maxDate", selected)
 	        }
 	    });  
-	});
+	}); */
 
         //AJAX
 
